@@ -1,0 +1,14 @@
+\\Mac\Home\Desktop\C#\Total Lape\Total lap 3\Total lap 3\bin\Debug\net8.0\Total lap 3.exe
+\\Mac\Home\Desktop\C#\Total Lape\Total lap 3\Total lap 3\bin\Debug\net8.0\Total lap 3.deps.json
+\\Mac\Home\Desktop\C#\Total Lape\Total lap 3\Total lap 3\bin\Debug\net8.0\Total lap 3.runtimeconfig.json
+\\Mac\Home\Desktop\C#\Total Lape\Total lap 3\Total lap 3\bin\Debug\net8.0\Total lap 3.dll
+\\Mac\Home\Desktop\C#\Total Lape\Total lap 3\Total lap 3\bin\Debug\net8.0\Total lap 3.pdb
+\\Mac\Home\Desktop\C#\Total Lape\Total lap 3\Total lap 3\obj\Debug\net8.0\Total lap 3.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\C#\Total Lape\Total lap 3\Total lap 3\obj\Debug\net8.0\Total lap 3.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\C#\Total Lape\Total lap 3\Total lap 3\obj\Debug\net8.0\Total lap 3.AssemblyInfo.cs
+\\Mac\Home\Desktop\C#\Total Lape\Total lap 3\Total lap 3\obj\Debug\net8.0\Total lap 3.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\C#\Total Lape\Total lap 3\Total lap 3\obj\Debug\net8.0\Total lap 3.dll
+\\Mac\Home\Desktop\C#\Total Lape\Total lap 3\Total lap 3\obj\Debug\net8.0\refint\Total lap 3.dll
+\\Mac\Home\Desktop\C#\Total Lape\Total lap 3\Total lap 3\obj\Debug\net8.0\Total lap 3.pdb
+\\Mac\Home\Desktop\C#\Total Lape\Total lap 3\Total lap 3\obj\Debug\net8.0\Total lap 3.genruntimeconfig.cache
+\\Mac\Home\Desktop\C#\Total Lape\Total lap 3\Total lap 3\obj\Debug\net8.0\ref\Total lap 3.dll
